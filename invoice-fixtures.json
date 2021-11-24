@@ -1,0 +1,18 @@
+{
+    "first_invoice": {
+        "company_name": "Los Pollos Hermanos",
+        "type_of_work": "Test Automation",
+        "status": "Past Due",
+        "amount": "767.29",
+        "due_date": "2023-12-31",
+        "description": "It's all good, man!"
+    },
+    "second_invoice": {
+        "company_name": "Los Pollos Hermanos",
+        "type_of_work": "Test Automation",
+        "status": "Sent",
+        "amount": "767.29",
+        "due_date": "2022-12-31",
+        "description": "It's all good, man!"
+    }
+}
